@@ -19,7 +19,7 @@ export function LandingPageComponent() {
             Need your first super user?
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            We'll be your first customer, providing actionable feedback and identifying pain points to improve your app's user experience.
+            We&apos;ll be your first customer, providing actionable feedback and identifying pain points to improve your app&apos;s user experience.
           </p>
           <div className="inline-block">
             <Button className="bg-black text-white hover:bg-gray-800 text-lg py-6 px-8" onClick={() => window.open('https://calendly.com/kevindsimsjr/30min', '_blank')}>
@@ -37,7 +37,7 @@ export function LandingPageComponent() {
         {/* Footer */}
         <div className="mt-16 text-center text-sm text-gray-500">
           <p className="mb-2">
-            *We're here for you Monday to Friday! Just a heads up, if things get busy, it might take a bit longer than 48 hours to get back to you, but don’t worry—we’ll keep you in the loop!
+            *We&apos;re here for you Monday to Friday! Just a heads up, if things get busy, it might take a bit longer than 48 hours to get back to you, but don&apos;t worry—we&apos;ll keep you in the loop!
           </p>
           <p>
             MyFirstCustomer is a service launched in 2024, created by an experienced
