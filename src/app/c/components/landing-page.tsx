@@ -25,7 +25,7 @@ export function LandingPageComponent() {
                 window.open("https://calendly.com/kevindsimsjr/30min", "_blank")
               }
             >
-              Hire us for $50
+              Hire us for $50/hr
             </Button>
           </div>
           <div className="pt-8 space-y-2 text-sm text-gray-500 flex flex-col items-center">
